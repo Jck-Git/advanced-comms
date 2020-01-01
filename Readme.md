@@ -1,4 +1,4 @@
-Add this file to lua/autorun
+Add the sh_advancedcomms file to addons/advancedcomms/lua/autorun
 
 Change the team IDs and titles respectively.
 
